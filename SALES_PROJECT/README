@@ -1,0 +1,3 @@
+The report offers a comprehensive exploration of introductory sales analysis leveraging Python. 
+It delves into a trove of data encompassing numerous electronics store purchases, meticulously categorized by month, product type, cost, purchase address, and more.
+Twelve CSV tables, each representing a distinct month of the year, were merged into a unified file called "all_data".
